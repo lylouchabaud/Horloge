@@ -1,6 +1,5 @@
 const timeZones = {
-    paris: { name: "PARIS", zone: "Europe/Paris" },
-    londres: { name: "LONDRES", zone: "Europe/London" },
+    paris: { name: "PARIS", zone: "Europe/Paris" }, 
     newyork: { name: "NEW YORK", zone: "America/New_York" },
     tokyo: { name: "TOKYO", zone: "Asia/Tokyo" },
     sydney: { name: "SYDNEY", zone: "Australia/Sydney" },
